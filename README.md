@@ -15,6 +15,8 @@ The project is a test-driven headless browser, that implements the following fea
 * [TODO] Cookie support
 * [TODO] Selector support (jQuery/Sizzler style .class,#id,td etc.)
 * [TODO] IWebDriver support
+* [TODO] Support automatic batch runs
+* [TODO] Some kind of XML format for the batch runs (and webinject XML format support)
  
 It's currently work in progress.
 
