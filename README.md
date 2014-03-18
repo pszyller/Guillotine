@@ -22,6 +22,8 @@ It's currently work in progress.
 
 ### Ideas
 
+* RestSharp for the HTTP library, and not HttpClient. This gives us POST, GET support along with querystring/header support.
 * Testable-Turtles-all-the-way-down architecture: composition over inheritence
 * StructureMap for dependencies
-* HtmlAgility Pack with Sizzler for selector support
+* HtmlAgility Pack with Sizzler for selector support or...
+* CSQuery for HTML parsing
